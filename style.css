@@ -1,0 +1,31 @@
+body {
+    background: #ffe6f2;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 80px;
+}
+
+h1 {
+    font-size: 40px;
+    color: #d63384;
+}
+
+button {
+    padding: 15px 30px;
+    font-size: 20px;
+    margin: 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#sim {
+    background: #28a745;
+    color: white;
+}
+
+#nao {
+    background: #dc3545;
+    color: white;
+    position: absolute;
+}
